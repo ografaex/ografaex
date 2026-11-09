@@ -24,7 +24,7 @@ Estudante do Ensino Médio e de Desenvolvimento Web no Instituto Percorre, busco
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="[[https://skillicons.dev/icons?i=html,css,js,git,github,vscode](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)" />
+  <img src="[https://skillicons.dev/icons?i=html,css,js,git,github,vscode](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)" />
 </p>
 
 ---
