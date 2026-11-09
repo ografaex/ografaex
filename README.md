@@ -24,7 +24,7 @@ Estudante do Ensino Médio e de Desenvolvimento Web no Instituto Percorre, busco
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+  <img src="[https://skillicons.dev/icons?i=html,css,js,git,github,vscode](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ Estudante do Ensino Médio e de Desenvolvimento Web no Instituto Percorre, busco
   <a href="mailto:rafael22.samorim@gmail.com@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/og.rafaex">
+  <a href="[https://www.instagram.com/og.rafaex](https://www.instagram.com/og.rafaex?vrfl=MXc5ZGx1ZGhsNWh6dQ%3D%3D&utm_source=qr)">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
